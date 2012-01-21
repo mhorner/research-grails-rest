@@ -1,4 +1,4 @@
-package com.redprairie.mhorner.demo
+package com.blogspot.mhorner.demo
 
 import grails.plugins.springsecurity.Secured
 

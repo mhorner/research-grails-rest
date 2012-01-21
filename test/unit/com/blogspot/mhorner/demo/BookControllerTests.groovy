@@ -1,8 +1,12 @@
-package com.redprairie.mhorner.demo
+package com.blogspot.mhorner.demo
 
 
 
 import org.junit.*
+
+import com.blogspot.mhorner.demo.Book;
+import com.blogspot.mhorner.demo.BookController;
+
 import grails.test.mixin.*
 
 @TestFor(BookController)

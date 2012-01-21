@@ -1,6 +1,6 @@
-import com.redprairie.mhorner.demo.Role
-import com.redprairie.mhorner.demo.User
-import com.redprairie.mhorner.demo.UserRole
+import com.blogspot.mhorner.demo.Role
+import com.blogspot.mhorner.demo.User
+import com.blogspot.mhorner.demo.UserRole
 
 class BootStrap {
 

@@ -1,5 +1,5 @@
 
-<%@ page import="com.redprairie.mhorner.demo.Book" %>
+<%@ page import="com.blogspot.mhorner.demo.Book" %>
 <!doctype html>
 <html>
 	<head>

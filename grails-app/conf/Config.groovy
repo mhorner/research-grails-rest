@@ -11,7 +11,7 @@
 // }
 
 
-grails.project.groupId = 'com.redprairie.mhorner.demo' // change this to alter the default package name and Maven publishing destination
+grails.project.groupId = 'com.blogspot.mhorner.demo' // change this to alter the default package name and Maven publishing destination
 grails.mime.file.extensions = true // enables the parsing of file extensions from URLs into the request format
 grails.mime.use.accept.header = false
 grails.mime.types = [ html: ['text/html','application/xhtml+xml'],
@@ -93,7 +93,7 @@ log4j = {
 }
 
 // Added by the Spring Security Core plugin:
-grails.plugins.springsecurity.userLookup.userDomainClassName = 'com.redprairie.mhorner.demo.User'
-grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'com.redprairie.mhorner.demo.UserRole'
-grails.plugins.springsecurity.authority.className = 'com.redprairie.mhorner.demo.Role'
+grails.plugins.springsecurity.userLookup.userDomainClassName = 'com.blogspot.mhorner.demo.User'
+grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'com.blogspot.mhorner.demo.UserRole'
+grails.plugins.springsecurity.authority.className = 'com.blogspot.mhorner.demo.Role'
 grails.plugins.springsecurity.successHandler.defaultTargetUrl = '/home'
