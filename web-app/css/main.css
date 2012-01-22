@@ -91,8 +91,12 @@ img {
 }
 
 .content {
+	padding: 20px;
 }
 
+.content ul {
+	padding: 20px;
+}
 .content h1 {
 	border-bottom: 1px solid #CCCCCC;
 	margin: 0.8em 1em 0.3em;

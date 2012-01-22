@@ -5,6 +5,8 @@
 	<r:require module="application" />
 </head>
 <body>
-	<p>Public Controller</p>
+	<div class="content">
+		Login to see the Books catalogue.
+	</div>
 </body>
 </html>

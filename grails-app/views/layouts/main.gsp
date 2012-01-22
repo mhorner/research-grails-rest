@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<r:require module="application" />
 		<title><g:layoutTitle default="Grails"/></title>
 		<g:layoutHead/>
         <r:layoutResources />
@@ -14,7 +15,7 @@
 		<sec:ifNotLoggedIn>
 		<g:link controller='login' action='auth'>Login</g:link>
 		</sec:ifNotLoggedIn>
-		<h1>Demo</h1>
+		<h1>Research Project : Grails and REST</h1>
 		<g:layoutBody/>
         <r:layoutResources />
 	</body>
