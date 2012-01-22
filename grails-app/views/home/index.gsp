@@ -23,6 +23,9 @@
 			<li><a
 				href='http://mhorner.blogspot.com/2012/01/rest-taking-closer-look-part-1.html'>REST
 					- Taking a Closer Look (Part 1)</a></li>
+			<li><a
+				href='http://mhorner.blogspot.com/2012/01/rest-taking-closer-look-part-2.html'>REST
+					- Taking a Closer Look (Part 2)</a></li>
 		</ul>
 		</p>
 		<p>
