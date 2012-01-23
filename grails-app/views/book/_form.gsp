@@ -18,3 +18,19 @@
 	<g:textField name="description" required="" value="${bookInstance?.description}"/>
 </div>
 
+<div class="fieldcontain ${hasErrors(bean: bookInstance, field: 'author', 'error')} required">
+	<label for="author">
+		<g:message code="book.author.label" default="Author" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:textField name="author" required="" value="${bookInstance?.author}"/>
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: bookInstance, field: 'iSBN', 'error')} required">
+	<label for="ISBN">
+		<g:message code="book.iSBN.label" default="ISBN" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:textField name="iSBN" required="" value="${bookInstance?.iSBN}"/>
+</div>
+
