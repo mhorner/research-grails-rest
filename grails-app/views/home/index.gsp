@@ -26,6 +26,15 @@
 			<li><a
 				href='http://mhorner.blogspot.com/2012/01/rest-taking-closer-look-part-2.html'>REST
 					- Taking a Closer Look (Part 2)</a></li>
+			<li><a
+				href='http://mhorner.blogspot.com/2012/01/rest-taking-closer-look-part-3.html'>REST
+					- Taking a Closer Look (Part 3)</a></li>
+			<li><a
+				href='http://mhorner.blogspot.com/2012/01/rest-taking-closer-look-part-4.html'>REST
+					- Taking a Closer Look (Part 4)</a></li>
+			<li><a
+				href='http://mhorner.blogspot.com/2012/01/rest-taking-closer-look-part-5.html'>REST
+					- Taking a Closer Look (Part 5)</a></li>
 		</ul>
 		</p>
 		<p>
