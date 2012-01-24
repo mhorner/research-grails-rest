@@ -1,10 +1,12 @@
 package com.blogspot.mhorner.demo
 
 import org.springframework.dao.DataIntegrityViolationException
+import grails.plugins.springsecurity.Secured
 
+@Secured(['ROLE_USER'])
 class BookController {
 
-    static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
+    static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
     def index() {
         redirect(action: "list", params: params)
